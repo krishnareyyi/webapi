@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'holaciti'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_70FC232AFC3E449499CCE3639DDEBABB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F2F3874B84E646B1BC1921F2976C32E1 }}
           package: .
